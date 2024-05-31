@@ -1,0 +1,14 @@
+transformers==4.35.2
+pandas==2.1.1
+datasets==2.16.1
+numpy==1.24.3
+evaluate==0.4.1
+seqeval==1.2.2
+scikit-learn==1.3.0
+
+# Also recommended to install before using the notebook with Google Colab:
+# !pip install datasets
+# !pip install transformers[torch]
+# !pip install accelerate -U
+# !pip install seqeval
+# !pip install evaluate
